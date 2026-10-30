@@ -1,0 +1,4 @@
+sales_method,units_sold,total_revenue,total_operating_profit,operating_margin_pct,revenue_share_pct
+In-store,689990.00,356643750.00,127591382.00,35.78,39.63
+Outlet,849778.00,295585493.00,107988403.00,36.53,32.85
+Online,939093.00,247672882.00,96555337.00,38.99,27.52
